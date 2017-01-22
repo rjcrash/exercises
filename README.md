@@ -1,2 +1,2 @@
 # exercises
-This project is created only for fun :)
+ Repository is made for exercise and testing. 
