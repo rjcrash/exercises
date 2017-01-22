@@ -3,3 +3,4 @@
  Create conflict.
  Conflict Created.
  Conflict Resolved
+ Edit in master branc for creating conflict.
